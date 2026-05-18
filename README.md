@@ -23,6 +23,8 @@ Store, manage, and retrieve your credentials directly from the terminal — fast
 
 ---
 
+
+
 ## 📂 Project Structure
 
 ```
