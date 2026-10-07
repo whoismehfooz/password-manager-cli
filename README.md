@@ -90,6 +90,4 @@ Built with focus, curiosity, and consistency by **Mehfooz** 🚀
 
 ## ⭐ If you like this project
 
-Give it a star and follow the journey — more projects coming soon... 😈
-
-
+Give it a star and follow the journey — more projects coming soon.... 😈
